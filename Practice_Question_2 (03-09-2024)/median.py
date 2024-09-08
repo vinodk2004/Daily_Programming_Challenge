@@ -1,3 +1,23 @@
+"""
+Practice Question 2
+
+You are given an unsorted array of integers. 
+Your task is to find the median of the array. 
+The median is the middle value in an ordered list of numbers. 
+If the list has an even number of elements, the median is the average of the two middle numbers.
+
+Implement a function that returns the median of the array without explicitly sorting the entire array.
+
+Example 1
+arr = [3, 2, 1, 4, 5]
+OUtPUt: 3
+
+Example 2
+arr = [7, 10, 4, 3, 20, 15]
+Output: 8.5
+
+"""
+
 import random
 
 class Median:
