@@ -10,7 +10,7 @@ Implement a function that returns the median of the array without explicitly sor
 
 Example 1
 arr = [3, 2, 1, 4, 5]
-OUtPUt: 3
+Output: 3
 
 Example 2
 arr = [7, 10, 4, 3, 20, 15]
