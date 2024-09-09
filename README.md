@@ -2,6 +2,8 @@
 
 Welcome to my coding journey through the **2024 Daily Programming Challenge**! 🚀
 
+![zcover](https://github.com/user-attachments/assets/160cd6cb-0c1e-461d-ba0d-80945ba0882b)
+
 ## 📅 Challenge Highlights
 - **30 Days of Code:** A month-long adventure in coding, from September 1st to September 30th, 2024.
 - **Daily Tasks:** New and exciting programming challenges every single day.
